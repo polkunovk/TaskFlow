@@ -29,7 +29,7 @@
 
 1. Установите Java 11 или выше ([скачать](https://www.java.com/ru/download/)).
 
-2. Загрузите приложение по ссылке ([скачать](https://www.java.com/ru/download/)).
+2. Загрузите приложение по ссылке ([скачать](https://github.com/polkunovk/TaskFlow)).
 ---
 
 ## Пример использования
